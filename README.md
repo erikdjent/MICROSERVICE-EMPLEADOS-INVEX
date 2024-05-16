@@ -46,7 +46,9 @@ La app contiene los siguientes CRUD APIs.
     PATCH /api/updateEmpleados
     
     POST /api/saveEmpleados
+## swagger 
 
+http://localhost:8080/swagger-ui.html
     
 ## CURL POSTMAN
 
